@@ -26,7 +26,7 @@ class Background extends React.Component {
             minWidth: 200.00,
             scale: 1.00,
             scaleMobile: 1.00,
-            backgroundColor: 0x0,
+            backgroundColor: 0xffffff,
             color2: 0x2fbdbd,
             colorMode: "variance",
             birdSize: 0.80,
