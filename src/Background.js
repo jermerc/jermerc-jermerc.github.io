@@ -1,6 +1,6 @@
 import React from 'react'
 import * as THREE from 'three';
-import GLOBE from 'vanta/dist/vanta.birds.min'
+import GLOBE from 'vanta/dist/vanta.birds.min';
 
 class Background extends React.Component {
 
