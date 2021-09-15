@@ -15,7 +15,7 @@
     "react-script-tag": "^1.1.2",
     "react-scripts": "4.0.0",
     "skeleton": "^0.1.2",
-    "three": "^0.122.0",
+    "three": "^0.132.2",
     "vanta": "^0.5.21",
     "web-vitals": "^0.2.4"
   },
