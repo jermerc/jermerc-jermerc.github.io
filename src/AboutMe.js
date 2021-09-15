@@ -1,6 +1,6 @@
 import React from 'react';
-import './skeleton.css';
 import './App.css';
+
 
 class AboutMe extends React.Component {
 
